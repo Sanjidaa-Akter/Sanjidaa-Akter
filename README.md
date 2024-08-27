@@ -4,11 +4,11 @@ Content creator on youtube and web developer
 
 🏡 Living:Airport Road, Dhaka
 
-# About Me
+# 👩‍💻About Me
 
 I am a passionate computer science and engineering student. I read in Northern University Bangladesh.I am learning  programming languages, web development, and computer science-related subject. Besides, I have a youtube channel where i upload tuitorial on Bangla, English, Mathematics, physics and so on. I had the opportunity to teach thousands of students at different institutions in Bangladesh.  Every day I want to learn something new.
 
-# My Skills 
+# 🎓My Skills 
 - MS Word
 - MS Excel
 - MS Powerpoint
@@ -21,7 +21,7 @@ I am a passionate computer science and engineering student. I read in Northern U
 - python
 - Git & Github
 
-# Education
+# 👨‍🎓Education
 1.B.Sc. in Computer Science and Engineering, Northern University Bangladesh
 
 2.Higher Secondary Certificate (HSC) 
@@ -46,7 +46,7 @@ Board : Dhaka
 - Travelling
 - Reading Book
 - Gardening
-# Honors & Awards:
+# 🏆Honors & Awards:
 ❖100% tuition wavier: Northern University Bangladesh
 
 ❖ DBL scholarship: 60,000 TK for scoring GPA-5 out of 5
