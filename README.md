@@ -1,3 +1,5 @@
+![Sanjida Akter](banner.jpg)
+
 # 🖐Hello, I'm Sanjida Akter
 
 Content creator on youtube and web developer
